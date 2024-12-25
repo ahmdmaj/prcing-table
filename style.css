@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+.sub{
+    background-color: aliceblue;
+    justify-items: center;
+    padding: 10px;
+}
+h1,h3,p{
+    font-family:"Libre Baskerville", serif;
+}
+button{
+    background-color: orange;
+    border: none;
+    height: 30px;
+    border-radius: 6px;
+}
